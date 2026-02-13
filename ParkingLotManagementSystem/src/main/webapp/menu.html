@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Parking Menu</title>
+</head>
+<body>
+
+<h2>Parking Lot Management System</h2>
+
+<a href="addParking.jsp">Add Parking Record</a><br><br>
+
+<a href="viewParking.jsp">View Parking Record</a><br><br>
+
+<form action="MainServlet" method="post">
+    <input type="hidden" name="operation" value="viewAllRecords">
+    <input type="submit" value="View All Parking Records">
+</form>
+
+</body>
+</html>
