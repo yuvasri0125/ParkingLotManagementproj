@@ -1,29 +1,47 @@
 🚗 Parking Lot Management System
+
 A Java-based web application to manage vehicle parking records using Servlets, JSP, JDBC, and Oracle Database.
 
 📌 Project Description
 
 Parking Lot Management System allows users to:
+
 ➕ Add parking details
+
 🔍 View a specific parking record
+
 📋 View all parking records
+
 ✏️ Display parking details
+
 ✅ Show success/error messages
+
 🗄 Store data in Oracle database
 
 This project follows MVC architecture using:
+
 JSP (View)
+
 Servlet (Controller)
+
 DAO & Utility classes (Model)
+
 Oracle Database
 
 🛠️ Technologies Used
+
 Java
+
 Servlets
+
 JSP
+
 JDBC
+
 Oracle Database
+
 Apache Tomcat 9
+
 Eclipse IDE
 
 <img width="1920" height="1080" alt="Screenshot 2026-02-12 213821" src="https://github.com/user-attachments/assets/0881cafe-6102-4e36-897b-06af98841bcc" />
